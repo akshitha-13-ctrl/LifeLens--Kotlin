@@ -1,2 +1,2 @@
 # LifeLens--Kotlin
-Config files for my GitHub profile. Planet Reborn – A New World Awaits ,Rebuild. Evolve. Rise Again.
+Planet Reborn – Emotional Healing Adventure Game A game designed to make the player feel calm, strong, and emotionally refreshed. Concept You play as a small spirit restoring a broken planet. Each level represents an emotion:
