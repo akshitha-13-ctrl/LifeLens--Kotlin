@@ -190,7 +190,7 @@ Universe unlock system
 
 8. Tech Stack
 
-Frontend – Kotlin (Android) 
+Frontend – Kotlin (Android)
 
 Jetpack Compose 
 
