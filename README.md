@@ -141,7 +141,6 @@ Mood Scanner: identifies stress triggers
 
 Affirmations: courage-building messages 
 
- 
 
  4. Planet Pyronox – Anger 
 
@@ -163,10 +162,6 @@ Mood Scanner: detects intensity
 
 Affirmations: self-control and clarity statements 
 
- 
-
- 
-
 6. Base Features (Non-Negotiable) 
 
 Universe Nauvara with 4 emotional planets 
@@ -180,8 +175,6 @@ Save progress
 Four core activities in every level 
 
 Beautiful UI with soft animations 
-
- 
 
 7. Good-to-Have Features 
 
@@ -197,34 +190,18 @@ Universe unlock system
 
  
 
-8. Tech Stack 
+8. Tech Stack
 
 Frontend – Kotlin (Android) 
 
-Jetpack Compose / XML 
-
-Lottie Animations 
-
-Canvas animations 
+Jetpack Compose 
 
 Touch/gesture controls 
 
-Backend 
+10. Notes (Collaboration) 
 
-Firebase Authentication 
-
-Firebase Firestore / Realtime Database 
-
-Firebase Storage (for images/animations) 
-
- 
-
-9. Notes (Collaboration) 
-
-The team will work together for the UI, activities, Firebase setup, and gameplay logic. 
+The team will work together for the UI, activities, and gameplay logic. 
 GitHub repository will be shared among all team members for version control and contributions. 
-
- 
 
 10.GITHUB LINK: 
 https://github.com/akshitha-13-ctrl/LifeLens--Kotlin 
