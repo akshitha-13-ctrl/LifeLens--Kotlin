@@ -168,8 +168,6 @@ Universe Nauvara with 4 emotional planets
 
 100 levels per planet 
 
-Login & Signup (Firebase) 
-
 Save progress 
 
 Four core activities in every level 
